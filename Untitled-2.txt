@@ -1,0 +1,4 @@
+days=("sunday","monday","tuesday","wednesday","thursday","friday","saturday")
+print(days)
+days[1]="sunday"
+print(days)
